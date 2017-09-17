@@ -1,5 +1,5 @@
 # Unit-Converter-App
-In this assignment, we want you to create an iOS app that calculates the conversion from one unit to another using what you have learned about variables and functions. Use the video guide to help you navigate the details.
+In this assignment, we want you to create an iOS app that calculates the conversion from one unit to another using what you have learned about variables and functions.
 
 Your application should include a UITextField for the user to put the initial measurement into. It should be paired with a UILabel clarifying which units the input is in.
 
